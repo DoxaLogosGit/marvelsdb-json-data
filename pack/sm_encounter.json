@@ -1756,7 +1756,7 @@
 		"quantity": 1,
 		"set_code": "goblin_gear",
 		"set_position": 6,
-		"text": "<b>When Revealed</b>: If Advanced Glider is in play, the villain activates against you. If it is not in play, search the encounter deck and discard pile for Advance Glider and reveal it.\n<hr />\n[star] <b>Boost</b>: Give the villain 2 additional boost cards for this activation.",
+		"text": "<b>When Revealed</b>: If Advanced Glider is in play, the villain activates against you. If it is not in play, search the encounter deck and discard pile for Advanced Glider and reveal it.\n<hr />\n[star] <b>Boost</b>: Give the villain 2 additional boost cards for this activation.",
 		"type_code": "treachery"
 	},
 	{

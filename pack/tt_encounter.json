@@ -898,7 +898,7 @@
         "quantity": 1,
         "set_code": "god_of_lies",
         "set_position": 9,
-        "text": "Attach to your identiy.\nAttached identity cannot ready.\n<b>When Revealed</b>: Exhaust your identity.\n<b>Hero Action</b>: Spend 2 resources of the same type \u2192 discard this card. Place 1 shatter counter on the [[Avatar of Loki]] villain.",
+        "text": "Attach to your identity.\nAttached identity cannot ready.\n<b>When Revealed</b>: Exhaust your identity.\n<b>Hero Action</b>: Spend 2 resources of the same type \u2192 discard this card. Place 1 shatter counter on the [[Avatar of Loki]] villain.",
         "traits": "Condition.",
         "type_code": "attachment"
     },

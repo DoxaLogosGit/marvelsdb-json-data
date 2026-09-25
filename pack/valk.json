@@ -47,7 +47,7 @@
 		"quantity": 1,
 		"recover": 4,
 		"set_code": "valk",
-		"text": "<b>Setup:</b> Set the Death Glow upgrade aside, out of play.\n\"Not this Day.\" — <b>Action</b>: Detach Death-Glow and set it aside, out of play.",
+		"text": "<b>Setup:</b> Set the Death-Glow upgrade aside, out of play.\n\"Not this Day.\" — <b>Action</b>: Detach Death-Glow and set it aside, out of play.",
 		"traits": "Asgard.",
 		"type_code": "alter_ego"
 	},
@@ -126,7 +126,7 @@
 		"resource_physical": 1,
 		"set_code": "valk",
 		"set_position": 4,
-		"text": "Restricted.\nValkyrie gets +1 DEF (+2 DEF instead while defending against the enemy with Death Glow attached).",
+		"text": "Restricted.\nValkyrie gets +1 DEF (+2 DEF instead while defending against the enemy with Death-Glow attached).",
 		"traits": "Asgard. Weapon.",
 		"type_code": "upgrade"
 	},

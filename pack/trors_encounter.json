@@ -214,7 +214,7 @@
 		"set_code": "crossbones",
 		"set_position": 2,
 		"stage": "II",
-		"text": "[star] While Crossbones has a [[Weapon]] attachment, his attacks gain piercing.\n<b>When Revealed</b>: Search the encounter deck and discard pile for Crossbone's Machine Gun and attach it to Crossbones. Shuffle the encounter deck.",
+		"text": "[star] While Crossbones has a [[Weapon]] attachment, his attacks gain piercing.\n<b>When Revealed</b>: Search the encounter deck and discard pile for Crossbones' Machine Gun and attach it to Crossbones. Shuffle the encounter deck.",
 		"traits": "Hydra. Mercenary.",
 		"type_code": "villain"
 	},

@@ -1618,7 +1618,7 @@
         "resource_mental": 1,
         "set_code": "hope_summers",
         "set_position": 1,
-        "text": "Setup. The first player controls Hope Summers. Hope Summers does not count against your ally limit.\n[star] Hope Summer's base THW and base ATK are equal to the THW and ATK of your hero.\n<b>If Hope Summers leaves play, the players lose the game.</b>",
+        "text": "Setup. The first player controls Hope Summers. Hope Summers does not count against your ally limit.\n[star] Hope Summers' base THW and base ATK are equal to the THW and ATK of your hero.\n<b>If Hope Summers leaves play, the players lose the game.</b>",
         "thwart": null,
         "thwart_star": true,
         "traits": "Psionic. X-Force. X-Men.",

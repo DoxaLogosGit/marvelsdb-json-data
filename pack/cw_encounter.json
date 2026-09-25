@@ -85,7 +85,7 @@
         "scheme": 2,
         "set_code": "tigra_nemesis",
         "set_position": 4,
-        "text": "<b>When Revealed</b>: Place 2 threat on the Criminal Underwold side scheme. Otherwise, find Criminal Underworld and reveal it.\n<hr />\n[star] <b>Boost</b>: Place 2 threat on the Criminal Underworld side scheme. Otherwise, this card gains [boost][boost].",
+        "text": "<b>When Revealed</b>: Place 2 threat on the Criminal Underworld side scheme. Otherwise, find Criminal Underworld and reveal it.\n<hr />\n[star] <b>Boost</b>: Place 2 threat on the Criminal Underworld side scheme. Otherwise, this card gains [boost][boost].",
         "traits": "Criminal.",
         "type_code": "minion"
     },
@@ -718,7 +718,7 @@
         "scheme_hazard": 1,
         "set_code": "maria_hill_modular",
         "set_position": 5,
-        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: The player who defeated this scheme deals 1 damager to each character they control and each minion engaged with them.",
+        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: The player who defeated this scheme deals 1 damage to each character they control and each minion engaged with them.",
         "type_code": "side_scheme"
     },
     {
@@ -2382,7 +2382,7 @@
         "quantity": 2,
         "set_code": "spider_woman_leader",
         "set_position": 12,
-        "text": "<b>When Revealed</b>: Chooose:\n\u2022 Discard the highest-cost card you control\n\u2022 Spider-Woman schemes.\n<hr />\n[star] <b>Boost</b>: This card gains [boost] for each status card on your identity.",
+        "text": "<b>When Revealed</b>: Choose:\n\u2022 Discard the highest-cost card you control\n\u2022 Spider-Woman schemes.\n<hr />\n[star] <b>Boost</b>: This card gains [boost] for each status card on your identity.",
         "type_code": "treachery"
     },
     {

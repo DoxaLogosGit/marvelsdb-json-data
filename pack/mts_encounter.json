@@ -568,7 +568,7 @@
 		"set_code": "tower_defense",
 		"set_position": 1,
 		"stage": "I",
-		"text": "[star] <b>Forced Interrupt</b>: When Proxima Midnight attacks you, choose to either deal 1 damage to Avenger's Tower, or Proxima Midnight gets +2 ATK for this attack.\n<b>Proxima Midnight cannot be defeated while Corvus Glaive has any hit points remaining.</b>",
+		"text": "[star] <b>Forced Interrupt</b>: When Proxima Midnight attacks you, choose to either deal 1 damage to Avengers Tower, or Proxima Midnight gets +2 ATK for this attack.\n<b>Proxima Midnight cannot be defeated while Corvus Glaive has any hit points remaining.</b>",
 		"traits": "Black Order.",
 		"type_code": "villain"
 	},
@@ -589,7 +589,7 @@
 		"set_code": "tower_defense",
 		"set_position": 2,
 		"stage": "II",
-		"text": "[star] <b>Forced Interrupt</b>: When Proxima Midnight attacks you, choose to either deal 1 damage to Avenger's Tower, or Proxima Midnight gets +2 ATK for this attack.\n<b> Proxima Midnight cannot be defeated while Corvus Glaive has any hit points remaining </b>",
+		"text": "[star] <b>Forced Interrupt</b>: When Proxima Midnight attacks you, choose to either deal 1 damage to Avengers Tower, or Proxima Midnight gets +2 ATK for this attack.\n<b> Proxima Midnight cannot be defeated while Corvus Glaive has any hit points remaining </b>",
 		"traits": "Black Order.",
 		"type_code": "villain"
 	},
@@ -610,7 +610,7 @@
 		"set_code": "tower_defense",
 		"set_position": 3,
 		"stage": "III",
-		"text": "[star] <b>Forced Interrupt</b>: When Proxima Midnight attacks you, choose to either deal 1 damage to Avenger's Tower, or Proxima Midnight gets +2 ATK for this attack.\n<b> Proxima Midnight cannot be defeated while Corvus Glaive has any hit points remaining </b>",
+		"text": "[star] <b>Forced Interrupt</b>: When Proxima Midnight attacks you, choose to either deal 1 damage to Avengers Tower, or Proxima Midnight gets +2 ATK for this attack.\n<b> Proxima Midnight cannot be defeated while Corvus Glaive has any hit points remaining </b>",
 		"traits": "Black Order.",
 		"type_code": "villain"
 	},
@@ -631,7 +631,7 @@
 		"set_code": "tower_defense",
 		"set_position": 4,
 		"stage": "I",
-		"text": "[star] <b>Forced Interrupt</b>: After Corvus Glaive makes an undefended attack, discard the top card of the encounter deck → deal 1 damage to Avenger's Tower for each boost icon ([boost]) on that card.\n<b>Corvus Glaive cannot be defeated while Proxima Midnight has any hit points remaining.</b>",
+		"text": "[star] <b>Forced Interrupt</b>: After Corvus Glaive makes an undefended attack, discard the top card of the encounter deck → deal 1 damage to Avengers Tower for each boost icon ([boost]) on that card.\n<b>Corvus Glaive cannot be defeated while Proxima Midnight has any hit points remaining.</b>",
 		"traits": "Black Order.",
 		"type_code": "villain"
 	},
@@ -652,7 +652,7 @@
 		"set_code": "tower_defense",
 		"set_position": 5,
 		"stage": "II",
-		"text": "[star] <b>Forced Interrupt</b>: After Corvus Glaive makes an undefended attack, discard the top card of the encounter deck → deal 1 damage to Avenger's Tower for each boost icon [[boost]] on that card.\n<b> Corvus Glaive cannot be defeated while Proxima Midnight has any hit points remaining </b>",
+		"text": "[star] <b>Forced Interrupt</b>: After Corvus Glaive makes an undefended attack, discard the top card of the encounter deck → deal 1 damage to Avengers Tower for each boost icon [boost] on that card.\n<b> Corvus Glaive cannot be defeated while Proxima Midnight has any hit points remaining </b>",
 		"traits": "Black Order.",
 		"type_code": "villain"
 	},
@@ -673,7 +673,7 @@
 		"set_code": "tower_defense",
 		"set_position": 6,
 		"stage": "III",
-		"text": "[star] <b>Forced Interrupt</b>: After Corvus Glaive makes an undefended attack, discard the top card of the encounter deck → deal 1 damage to Avenger's Tower for each boost icon [[boost]] on that card.\n<b> Corvus Glaive cannot be defeated while Proxima Midnight has any hit points remaining </b>",
+		"text": "[star] <b>Forced Interrupt</b>: After Corvus Glaive makes an undefended attack, discard the top card of the encounter deck → deal 1 damage to Avengers Tower for each boost icon [boost] on that card.\n<b> Corvus Glaive cannot be defeated while Proxima Midnight has any hit points remaining </b>",
 		"traits": "Black Order.",
 		"type_code": "villain"
 	},
@@ -1001,7 +1001,7 @@
 		"set_code": "thanos",
 		"set_position": 4,
 		"stage": "1A",
-		"text": "<b>Contents</b>: Thanos I and Thanos II <i>(Thanos II and Thanos III for expert mode)</i>. Thanos, Infinity Gaultlet and Standard sets. Two modular sets <i>(Black Order and Children of Thanos)</i>. See rules insert for The Infinity Gauntlet rules.",
+		"text": "<b>Contents</b>: Thanos I and Thanos II <i>(Thanos II and Thanos III for expert mode)</i>. Thanos, Infinity Gauntlet and Standard sets. Two modular sets <i>(Black Order and Children of Thanos)</i>. See rules insert for The Infinity Gauntlet rules.",
 		"type_code": "main_scheme"
 	},
 	{

@@ -531,7 +531,7 @@
 		"quantity": 1,
 		"set_code": "spiral",
 		"set_position": 12,
-		"text": "<b>When Revealed</b>: If a copy of Spiral's Sword is attached to Spiral, she attacks you <i>(even if you are in alter-ego form)</i>. Otherwise, search the encounter deck and discard pile for a copy of Spiral's Sword and attach it to her. <i>(Shuffle.)</i>",
+		"text": "<b>When Revealed</b>: If a copy of Spiral's Swords is attached to Spiral, she attacks you <i>(even if you are in alter-ego form)</i>. Otherwise, search the encounter deck and discard pile for a copy of Spiral's Swords and attach it to her. <i>(Shuffle.)</i>",
 		"type_code": "treachery"
 	},
 	{
