@@ -1691,7 +1691,7 @@
 		"scheme_star": true,
 		"set_code": "hela",
 		"set_position": 12,
-		"text": "Attach to Hela.\n[star] <b>Forced Response<b>: After Hela schemes, give her a facedown boost card.\n<hr />\n[star] <b>Boost</b>: Attach Hela's Crown to Hela.",
+		"text": "Attach to Hela.\n[star] <b>Forced Response</b>: After Hela schemes, give her a facedown boost card.\n<hr />\n[star] <b>Boost</b>: Attach Hela's Crown to Hela.",
 		"traits": "Item.",
 		"type_code": "attachment"
 	},

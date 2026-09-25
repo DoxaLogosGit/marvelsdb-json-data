@@ -2043,7 +2043,7 @@
 		"quantity": 2,
 		"set_code": "weap_master",
 		"set_position": 3,
-		"text": "<b>When Reveled (Alter-Ego)</b>: The villain schemes. If they have a [[Weapon]] attachment, this card gains surge.\n<b>When Reveled (Hero)</b>: the villain attacks you. If they have a [[Weapon]] attachment, this card gains surge.",
+		"text": "<b>When Revealed (Alter-Ego)</b>: The villain schemes. If they have a [[Weapon]] attachment, this card gains surge.\n<b>When Revealed (Hero)</b>: the villain attacks you. If they have a [[Weapon]] attachment, this card gains surge.",
 		"type_code": "treachery"
 	},
 	{
